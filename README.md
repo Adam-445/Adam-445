@@ -1,6 +1,6 @@
 # Hi, I'm Adam
 
-I focus on backend development and distributed systems, specializing in building scalable, high-performance, event-driven architectures.
+I focus on backend development and distributed systems, specializing in designing and building scalable, high-performance, event-driven architectures.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -11,4 +11,4 @@ I focus on backend development and distributed systems, specializing in building
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
-_Also familiar with: Redis, Apache Flink, Celery, SQLAlchemy, ClickHouse, Bash._
+_Also familiar with: Apache Flink, Celery, SQLAlchemy, ClickHouse, Bash._
