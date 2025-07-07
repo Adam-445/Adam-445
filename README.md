@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Adam
 
-<!--
-**Adam-445/Adam-445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on backend development and distributed systems, specializing in building scalable, high-performance, event-driven architectures.
 
-Here are some ideas to get you started:
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_Also familiar with: Redis, Apache Flink, Celery, SQLAlchemy, ClickHouse, Bash._
