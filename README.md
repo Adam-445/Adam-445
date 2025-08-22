@@ -1,6 +1,6 @@
 # Hi, I'm Adam
 
-I focus on backend development and distributed systems, specializing in designing and building scalable, high-performance, event-driven architectures.
+I build backend systems. Mainly distributed, event-driven services that scale.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
