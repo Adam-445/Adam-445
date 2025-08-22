@@ -1,8 +1,6 @@
 # Hi, I'm Adam
 
-I build backend systems 
-<img src="https://cdn.discordapp.com/emojis/1279146427536244737.webp?size=96" width="20" height="20" /> 
-. Mainly distributed, event-driven services that scale.
+I build backend systems. Mainly distributed, event-driven services that scale.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
