@@ -2,7 +2,7 @@
 
 I build backend systems. Mainly distributed, event-driven services that scale.
 
-## Tech Stack
+## Tools I like
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
